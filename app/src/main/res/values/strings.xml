@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ExampleSharedPreferences</string>
+    <string name="username">Username</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="email">Email</string>
+    <string name="enter_your_email">Enter your email</string>
+    <string name="save">Save</string>
+    <string name="load">Load</string>
+</resources>
